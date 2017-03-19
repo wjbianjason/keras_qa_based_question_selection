@@ -1,5 +1,4 @@
 # keras_qa_based_question_selection
-Keras-Based LSTM Conv model for Question Selection
 <br>
 This code is remplementation of lstm+cnn of Improved Representation Learning for Question Answer Matching
 <br>
