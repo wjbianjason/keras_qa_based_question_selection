@@ -1,0 +1,8 @@
+Sun, 19 Mar 2017 19:23:25 main.py[line:131] ERROR need at least one param
+Sun, 19 Mar 2017 19:23:41 main.py[line:131] ERROR need at least one param
+Sun, 19 Mar 2017 19:23:54 main.py[line:143] ERROR the first param should be train or evaluate
+Sun, 19 Mar 2017 19:25:12 main.py[line:131] ERROR need at least one param
+Sun, 19 Mar 2017 19:25:39 data_process.py[line:103] INFO Began training on 18540 samples
+Sun, 19 Mar 2017 19:25:40 main.py[line:77] INFO Fitting epoch 0
+Sun, 19 Mar 2017 19:28:01 main.py[line:139] ERROR the second param should be number
+Sun, 19 Mar 2017 19:29:16 main.py[line:140] ERROR the second param should be number
