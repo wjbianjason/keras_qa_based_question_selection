@@ -140,6 +140,7 @@ class ModelFactory(object):
         question_embedding =  QaEmbedding(question)
         answer_embedding =  QaEmbedding(answer)
         f_rnn = LSTM(hidden_dim, return_sequences=True)
+        #b_rnn = LSTM(hidden_dim, return_sequences=True,go_backwards=True)
         b_rnn = LSTM(hidden_dim, return_sequences=True)
 
         qf_rnn = f_rnn(question_embedding)
